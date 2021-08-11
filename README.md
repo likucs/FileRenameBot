@@ -9,8 +9,8 @@ An Multi purpose Bot Which Can :-
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/likucs/FileRenameBot)
 
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/No_OnE_Kn0wS_Me) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/Mai_bOTs) 
+If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/iAmLiKu1) 
+Also Support Our Channel [mod_apk_premium_cs](https://t.me/mod_apk_premium_cs) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
